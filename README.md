@@ -14,4 +14,4 @@ Location Finder Application for Android Development from address or latitude & l
 "Borobudur Temple, Java", "-7.61", "110.20"\
 "Silverstone Circuit, ", "52.07", "-1.02"\
 "Golden Gate Beach, San Fransisco", "37.82", "-122.48"\
-"555 W Hastings St, Vancouver", "49.28", "-123.11"\
+"555 W Hastings St, Vancouver", "49.28", "-123.11"
