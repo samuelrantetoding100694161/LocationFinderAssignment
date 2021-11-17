@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Address Fragment -->
+    <string name="app_name_label">Location Finder App</string>
+    <string name="find_input_bar">Enter Address:</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="enter_coords_button_label">Switch to Lat and Long Mode</string>
+    <!-- Latitude and Longitude Fragment -->
+    <string name="address_label">Address</string>
+    <string name="enter_address_button_label">Switch to Address Mode</string>
+    <string name="lat_input_bar">Enter Latitude</string>
+    <string name="lng_input_bar">Enter Longitude</string>
+    <string name="get_address_label">Find</string>
+    <!--  Navigation Fragment  -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+
+</resources>
